@@ -64,6 +64,6 @@ This is an educational tool. It only reads URL text. It does not visit URLs, sca
 Use the reserved sample strings in the workbook. Do not collect credentials, deceive people, or test websites without permission.
 
 ## Author
-[Your name]  
-[Your batch/course]  
+Chanchlesh Vishwakarma
+AI-Powered Cybersecurity Internship
 EWB Courses
